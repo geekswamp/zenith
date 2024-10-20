@@ -14,9 +14,9 @@ updates:
       time: "09:00"
       timezone: Asia/Jakarta
     reviewers:
-      - arifai
+      - geekswamp
     assignees:
-      - arifai
+      - geekswamp
     labels:
       - bump
       - dependabot

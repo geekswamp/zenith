@@ -1,8 +1,8 @@
-# Description
+## Description
 
 <!--- Describe your changes in detail -->
 
-# Type of Change
+## Type of Change
 
 <!--- Put an `x` in all the boxes that apply: -->
 
