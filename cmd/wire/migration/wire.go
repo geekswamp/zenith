@@ -3,8 +3,8 @@
 package migration
 
 import (
-	"github.com/arifai/zenith/internal/model/migration"
-	"github.com/arifai/zenith/pkg/logger"
+	"github.com/geekswap/zenith/internal/model/migration"
+	"github.com/geekswap/zenith/pkg/logger"
 	"github.com/google/uuid"
 	"github.com/google/wire"
 	"gorm.io/gorm"

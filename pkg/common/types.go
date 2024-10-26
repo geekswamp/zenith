@@ -3,9 +3,9 @@ package common
 import (
 	"errors"
 	"fmt"
-	"github.com/arifai/zenith/internal/types/response"
-	"github.com/arifai/zenith/pkg/errormessage"
-	"github.com/arifai/zenith/pkg/utils"
+	"github.com/geekswap/zenith/internal/types/response"
+	"github.com/geekswap/zenith/pkg/errormessage"
+	"github.com/geekswap/zenith/pkg/utils"
 	"github.com/gin-gonic/gin"
 	"go.opentelemetry.io/otel/trace"
 	"gorm.io/gorm"

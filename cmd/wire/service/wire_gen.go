@@ -7,10 +7,10 @@
 package service
 
 import (
-	"github.com/arifai/zenith/config"
-	"github.com/arifai/zenith/internal/repository"
-	"github.com/arifai/zenith/internal/service"
-	"github.com/arifai/zenith/pkg/logger"
+	"github.com/geekswap/zenith/config"
+	"github.com/geekswap/zenith/internal/repository"
+	"github.com/geekswap/zenith/internal/service"
+	"github.com/geekswap/zenith/pkg/logger"
 	"github.com/redis/go-redis/v9"
 	"gorm.io/gorm"
 )

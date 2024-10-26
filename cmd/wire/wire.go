@@ -3,11 +3,11 @@
 package wire
 
 import (
-	"github.com/arifai/zenith/cmd/wire/handler"
-	"github.com/arifai/zenith/cmd/wire/middleware"
-	"github.com/arifai/zenith/config"
-	"github.com/arifai/zenith/pkg/logger"
-	"github.com/arifai/zenith/pkg/server/http"
+	"github.com/geekswap/zenith/cmd/wire/handler"
+	"github.com/geekswap/zenith/cmd/wire/middleware"
+	"github.com/geekswap/zenith/config"
+	"github.com/geekswap/zenith/pkg/logger"
+	"github.com/geekswap/zenith/pkg/server/http"
 	"github.com/gin-gonic/gin"
 	"github.com/google/wire"
 	"github.com/redis/go-redis/v9"

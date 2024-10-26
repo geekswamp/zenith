@@ -7,7 +7,7 @@
 package config
 
 import (
-	"github.com/arifai/zenith/config"
+	"github.com/geekswap/zenith/config"
 )
 
 // Injectors from gin.go:

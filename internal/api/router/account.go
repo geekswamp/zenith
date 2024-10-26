@@ -1,8 +1,8 @@
 package router
 
 import (
-	"github.com/arifai/zenith/internal/handler"
-	"github.com/arifai/zenith/internal/middleware"
+	"github.com/geekswap/zenith/internal/handler"
+	"github.com/geekswap/zenith/internal/middleware"
 	"github.com/gin-gonic/gin"
 )
 

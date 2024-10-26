@@ -7,7 +7,7 @@
 package middleware
 
 import (
-	"github.com/arifai/zenith/internal/middleware"
+	"github.com/geekswap/zenith/internal/middleware"
 	"github.com/redis/go-redis/v9"
 	"gorm.io/gorm"
 )

@@ -1,7 +1,7 @@
 package middleware
 
 import (
-	"github.com/arifai/zenith/internal/middleware"
+	"github.com/geekswap/zenith/internal/middleware"
 	"github.com/google/wire"
 )
 

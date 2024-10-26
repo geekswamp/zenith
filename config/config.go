@@ -3,8 +3,8 @@ package config
 import (
 	"aidanwoods.dev/go-paseto"
 	"github.com/Netflix/go-env"
-	"github.com/arifai/zenith/cmd/wire/logger"
-	"github.com/arifai/zenith/pkg/errormessage"
+	"github.com/geekswap/zenith/cmd/wire/logger"
+	"github.com/geekswap/zenith/pkg/errormessage"
 	"github.com/joho/godotenv"
 	"go.uber.org/zap"
 )

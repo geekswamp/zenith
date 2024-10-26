@@ -1,8 +1,8 @@
 package repository
 
 import (
-	"github.com/arifai/zenith/internal/model"
-	"github.com/arifai/zenith/pkg/common"
+	"github.com/geekswap/zenith/internal/model"
+	"github.com/geekswap/zenith/pkg/common"
 	"github.com/google/uuid"
 	"gorm.io/gorm/clause"
 	"time"

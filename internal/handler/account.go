@@ -1,9 +1,9 @@
 package handler
 
 import (
-	"github.com/arifai/zenith/internal/service"
-	"github.com/arifai/zenith/internal/types/request"
-	"github.com/arifai/zenith/pkg/utils"
+	"github.com/geekswap/zenith/internal/service"
+	"github.com/geekswap/zenith/internal/types/request"
+	"github.com/geekswap/zenith/pkg/utils"
 	"github.com/gin-gonic/gin"
 )
 

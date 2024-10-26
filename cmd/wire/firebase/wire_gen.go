@@ -7,7 +7,7 @@
 package firebase
 
 import (
-	"github.com/arifai/zenith/pkg/firebase"
+	"github.com/geekswap/zenith/pkg/firebase"
 )
 
 // Injectors from gin.go:

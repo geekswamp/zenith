@@ -3,7 +3,7 @@ package firebase
 import (
 	"context"
 	"firebase.google.com/go/v4/messaging"
-	"github.com/arifai/zenith/cmd/wire/logger"
+	"github.com/geekswap/zenith/cmd/wire/logger"
 	"go.uber.org/zap"
 )
 

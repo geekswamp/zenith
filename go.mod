@@ -1,4 +1,4 @@
-module github.com/arifai/zenith
+module github.com/geekswap/zenith
 
 go 1.23.1
 

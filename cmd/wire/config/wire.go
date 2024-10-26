@@ -3,7 +3,7 @@
 package config
 
 import (
-	"github.com/arifai/zenith/config"
+	"github.com/geekswap/zenith/config"
 	"github.com/google/wire"
 )
 

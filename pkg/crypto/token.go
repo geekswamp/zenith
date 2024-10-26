@@ -3,7 +3,7 @@ package crypto
 import (
 	"aidanwoods.dev/go-paseto"
 	"errors"
-	"github.com/arifai/zenith/pkg/errormessage"
+	"github.com/geekswap/zenith/pkg/errormessage"
 	"github.com/google/uuid"
 	"go.uber.org/zap"
 	"time"
