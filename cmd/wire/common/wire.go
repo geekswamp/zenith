@@ -3,7 +3,7 @@
 package common
 
 import (
-	"github.com/arifai/zenith/pkg/common"
+	"github.com/geekswap/zenith/pkg/common"
 	"github.com/google/wire"
 )
 

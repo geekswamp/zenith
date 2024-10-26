@@ -3,13 +3,13 @@
 package handler
 
 import (
-	cmn "github.com/arifai/zenith/cmd/wire/common"
-	repo "github.com/arifai/zenith/cmd/wire/repository"
-	"github.com/arifai/zenith/config"
-	"github.com/arifai/zenith/internal/handler"
-	"github.com/arifai/zenith/internal/repository"
-	"github.com/arifai/zenith/internal/service"
-	"github.com/arifai/zenith/pkg/logger"
+	cmn "github.com/geekswap/zenith/cmd/wire/common"
+	repo "github.com/geekswap/zenith/cmd/wire/repository"
+	"github.com/geekswap/zenith/config"
+	"github.com/geekswap/zenith/internal/handler"
+	"github.com/geekswap/zenith/internal/repository"
+	"github.com/geekswap/zenith/internal/service"
+	"github.com/geekswap/zenith/pkg/logger"
 	"github.com/google/wire"
 	"github.com/redis/go-redis/v9"
 	"gorm.io/gorm"

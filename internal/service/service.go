@@ -1,8 +1,8 @@
 package service
 
 import (
-	"github.com/arifai/zenith/config"
-	"github.com/arifai/zenith/pkg/logger"
+	"github.com/geekswap/zenith/config"
+	"github.com/geekswap/zenith/pkg/logger"
 )
 
 // Service encapsulates common dependencies such as configuration and logging for use in other services.

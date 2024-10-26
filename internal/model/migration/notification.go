@@ -1,8 +1,8 @@
 package migration
 
 import (
-	"github.com/arifai/zenith/internal/model"
-	"github.com/arifai/zenith/pkg/errormessage"
+	"github.com/geekswap/zenith/internal/model"
+	"github.com/geekswap/zenith/pkg/errormessage"
 	"github.com/google/uuid"
 	"go.uber.org/zap"
 	"gorm.io/gorm"

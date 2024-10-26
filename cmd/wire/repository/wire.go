@@ -3,7 +3,7 @@
 package repository
 
 import (
-	"github.com/arifai/zenith/internal/repository"
+	"github.com/geekswap/zenith/internal/repository"
 	"github.com/google/wire"
 	"github.com/redis/go-redis/v9"
 	"gorm.io/gorm"

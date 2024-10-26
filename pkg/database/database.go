@@ -2,9 +2,9 @@ package database
 
 import (
 	"fmt"
-	logg "github.com/arifai/zenith/cmd/wire/logger"
-	"github.com/arifai/zenith/config"
-	"github.com/arifai/zenith/pkg/errormessage"
+	logg "github.com/geekswap/zenith/cmd/wire/logger"
+	"github.com/geekswap/zenith/config"
+	"github.com/geekswap/zenith/pkg/errormessage"
 	"go.uber.org/zap"
 	"gorm.io/driver/postgres"
 	"gorm.io/gorm"

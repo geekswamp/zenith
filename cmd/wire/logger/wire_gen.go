@@ -7,7 +7,7 @@
 package logger
 
 import (
-	"github.com/arifai/zenith/pkg/logger"
+	"github.com/geekswap/zenith/pkg/logger"
 )
 
 // Injectors from wire.go:

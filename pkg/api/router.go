@@ -1,9 +1,9 @@
 package api
 
 import (
-	"github.com/arifai/zenith/internal/api/router"
-	"github.com/arifai/zenith/internal/handler"
-	"github.com/arifai/zenith/internal/middleware"
+	"github.com/geekswap/zenith/internal/api/router"
+	"github.com/geekswap/zenith/internal/handler"
+	"github.com/geekswap/zenith/internal/middleware"
 	"github.com/gin-gonic/gin"
 )
 

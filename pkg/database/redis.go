@@ -3,8 +3,8 @@ package database
 import (
 	"context"
 	"fmt"
-	"github.com/arifai/zenith/config"
-	"github.com/arifai/zenith/pkg/errormessage"
+	"github.com/geekswap/zenith/config"
+	"github.com/geekswap/zenith/pkg/errormessage"
 	"github.com/redis/go-redis/v9"
 	"go.uber.org/zap"
 )

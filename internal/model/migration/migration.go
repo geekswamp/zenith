@@ -1,7 +1,7 @@
 package migration
 
 import (
-	"github.com/arifai/zenith/pkg/logger"
+	"github.com/geekswap/zenith/pkg/logger"
 	"github.com/google/uuid"
 	"gorm.io/gorm"
 )

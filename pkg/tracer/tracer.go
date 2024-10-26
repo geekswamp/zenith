@@ -1,7 +1,7 @@
 package tracer
 
 import (
-	"github.com/arifai/zenith/config"
+	"github.com/geekswap/zenith/config"
 	"github.com/google/uuid"
 	"go.opentelemetry.io/otel"
 	"go.opentelemetry.io/otel/exporters/zipkin"

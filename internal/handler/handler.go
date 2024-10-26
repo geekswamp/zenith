@@ -1,7 +1,7 @@
 package handler
 
 import (
-	"github.com/arifai/zenith/pkg/common"
+	"github.com/geekswap/zenith/pkg/common"
 	"github.com/gin-gonic/gin"
 	"github.com/google/uuid"
 )

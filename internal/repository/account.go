@@ -2,7 +2,7 @@ package repository
 
 import (
 	"context"
-	"github.com/arifai/zenith/internal/model"
+	"github.com/geekswap/zenith/internal/model"
 	"github.com/google/uuid"
 	"gorm.io/gorm"
 	"gorm.io/gorm/clause"
