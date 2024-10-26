@@ -4,8 +4,8 @@ go 1.23.1
 
 require (
 	aidanwoods.dev/go-paseto v1.5.2
-	firebase.google.com/go/v4 v4.14.1
-	github.com/Netflix/go-env v0.1.0
+	firebase.google.com/go/v4 v4.15.0
+	github.com/Netflix/go-env v0.1.1
 	github.com/gin-gonic/gin v1.10.0
 	github.com/go-playground/locales v0.14.1
 	github.com/go-playground/universal-translator v0.18.1
