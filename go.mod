@@ -21,7 +21,7 @@ require (
 	go.opentelemetry.io/otel/trace v1.31.0
 	go.uber.org/zap v1.27.0
 	golang.org/x/crypto v0.28.0
-	google.golang.org/api v0.204.0
+	google.golang.org/api v0.205.0
 	gopkg.in/natefinch/lumberjack.v2 v2.2.1
 	gorm.io/driver/postgres v1.5.9
 	gorm.io/gorm v1.25.12
@@ -30,7 +30,7 @@ require (
 require (
 	aidanwoods.dev/go-result v0.1.0 // indirect
 	cloud.google.com/go v0.116.0 // indirect
-	cloud.google.com/go/auth v0.10.0 // indirect
+	cloud.google.com/go/auth v0.10.1 // indirect
 	cloud.google.com/go/auth/oauth2adapt v0.2.5 // indirect
 	cloud.google.com/go/compute/metadata v0.5.2 // indirect
 	cloud.google.com/go/firestore v1.17.0 // indirect
