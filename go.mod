@@ -23,7 +23,7 @@ require (
 	golang.org/x/crypto v0.29.0
 	google.golang.org/api v0.210.0
 	gopkg.in/natefinch/lumberjack.v2 v2.2.1
-	gorm.io/driver/postgres v1.5.10
+	gorm.io/driver/postgres v1.5.11
 	gorm.io/gorm v1.25.12
 )
 
